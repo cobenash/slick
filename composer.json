@@ -1,0 +1,6 @@
+{
+  "name": "hellosanta/slick-library",
+  "description": "Slick carousel, the last carousel you'll ever need.",
+  "keywords": ["carousel", "slideshow", "Drupal"],
+  "type": "drupal-library",
+}
